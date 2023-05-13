@@ -1,0 +1,10 @@
+{
+    "name": "Forest",
+    "sprite": "sprites/forest.png",
+    "movement_ground": "rough",
+    "combat_modifiers": {
+        "base_defence": 2,
+        "has_coverage": true,
+        "has_elevation": false
+    }
+}

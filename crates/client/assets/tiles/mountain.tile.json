@@ -1,0 +1,10 @@
+{
+    "name": "Mountain",
+    "sprite": "sprites/montain.png",
+    "movement_ground": "difficult",
+    "combat_modifiers": {
+        "base_defence": 4,
+        "has_coverage": false,
+        "has_elevation": true
+    }
+}

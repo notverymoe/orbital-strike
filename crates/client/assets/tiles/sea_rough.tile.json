@@ -1,0 +1,10 @@
+{
+    "name": "Sea, Rough",
+    "sprite": "sprites/sea_rough.png",
+    "movement_water": "rough",
+    "combat_modifiers": {
+        "base_defence": 0,
+        "has_coverage": false,
+        "has_elevation": false
+    }
+}

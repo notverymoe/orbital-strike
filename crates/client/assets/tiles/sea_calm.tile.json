@@ -1,0 +1,10 @@
+{
+    "name": "Sea, Calm",
+    "sprite": "sprites/sea_calm.png",
+    "movement_water": "regular",
+    "combat_modifiers": {
+        "base_defence": 0,
+        "has_coverage": false,
+        "has_elevation": false
+    }
+}

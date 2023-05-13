@@ -1,0 +1,11 @@
+{
+    "name": "River",
+    "sprite": "sprites/river.png",
+    "movement_ground": "difficult",
+    "movement_water": "shallow",
+    "combat_modifiers": {
+        "base_defence": 0,
+        "has_coverage": false,
+        "has_elevation": false
+    }
+}

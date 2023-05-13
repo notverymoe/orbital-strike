@@ -1,0 +1,11 @@
+[package]
+name = "os-client"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = { workspace = true, features=["default", "bevy_asset"] }
+serde = { workspace=true }
+serde_json = { workspace=true }
+shrinkwraprs = { workspace=true }
+os-base = { path = "../base" }

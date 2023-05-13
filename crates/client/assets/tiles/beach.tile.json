@@ -1,0 +1,10 @@
+{
+    "name": "Beach",
+    "sprite": "sprites/beach.png",
+    "movement_ground": "regular",
+    "combat_modifiers": {
+        "base_defence": 0,
+        "has_coverage": false,
+        "has_elevation": false
+    }
+}

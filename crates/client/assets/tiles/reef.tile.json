@@ -1,0 +1,10 @@
+{
+    "name": "Reef",
+    "sprite": "sprites/reef.png",
+    "movement_water": "treacherous",
+    "combat_modifiers": {
+        "base_defence": 0,
+        "has_coverage": false,
+        "has_elevation": false
+    }
+}
